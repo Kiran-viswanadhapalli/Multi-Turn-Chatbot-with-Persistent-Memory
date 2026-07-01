@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Session and summary data
+data/sessions/*
+!data/sessions/.gitkeep
+
+data/summaries/*
+!data/summaries/.gitkeep
+
+# Testing/cache
+.pytest_cache/
+
+# Logs
+*.log
