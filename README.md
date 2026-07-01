@@ -1,4 +1,4 @@
-# 🤖 CLI Multi-Turn Chatbot with Persistent Memory
+# 🤖 Multi-Turn Chatbot with Persistent Memory
 
 <div align="center">
 
