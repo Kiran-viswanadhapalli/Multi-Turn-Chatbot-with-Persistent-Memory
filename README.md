@@ -426,7 +426,7 @@ Through this project, I learned how to:
 
 **YOUR NAME**
 
-GitHub: [Kiran-viswanadhapalli](https://github.com/YOUR_USERNAME)
+GitHub: [Kiran-viswanadhapalli](https://github.com/Kiran-viswanadhapalli)
 
 ---
 
