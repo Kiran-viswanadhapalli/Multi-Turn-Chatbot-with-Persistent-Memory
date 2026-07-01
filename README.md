@@ -426,14 +426,14 @@ Through this project, I learned how to:
 
 **YOUR NAME**
 
-GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: [Kiran-viswanadhapalli](https://github.com/YOUR_USERNAME)
 
 ---
 
 ## 📌 Repository
 
 ```text
-https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
+https://github.com/Kiran-viswanadhapalli/Multi-Turn_Presistent_Chatbot
 ```
 
 ---
