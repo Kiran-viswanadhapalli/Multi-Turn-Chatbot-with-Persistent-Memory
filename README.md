@@ -440,7 +440,7 @@ https://github.com/Kiran-viswanadhapalli/Multi-Turn_Presistent_Chatbot
 
 ## 📄 License
 
-This project can be released under the MIT License.
+This project is Licensed under the MIT License.
 
 
 <div align="center">
